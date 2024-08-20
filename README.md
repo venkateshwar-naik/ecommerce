@@ -1,8 +1,6 @@
-# React + Vite
+# E-Commerce
+In this project, I developed a comprehensive E-Commerce website featuring a variety of product categories, including mobiles, fridges, air conditioners, furniture, watches, and menswear. The website is designed with robust functionality, allowing users to browse and select products by category.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I implemented essential e-commerce features such as an "Add to Cart" functionality, enabling users to easily add their desired products to their cart. Additionally, a "Remove from Cart" functionality allows users to manage their cart by removing items as needed.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This user-friendly interface ensures a seamless shopping experience, with intuitive navigation through different categories and efficient cart management features.
